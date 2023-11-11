@@ -1,6 +1,5 @@
-# swapi_code
+# swapi_code Coding Exercises:
 
-**Coding Exercises: **
 Exercise 1: Find all ships that appeared in Return of the Jedi
       
       Script file : EX1_Script_new.sh
