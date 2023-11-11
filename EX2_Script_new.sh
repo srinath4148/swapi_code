@@ -1,5 +1,7 @@
 #!/bin/bash
+# Exercise 2: Find all ships that have a hyperdrive rating >= 1.0
 
+# Purging Old Log file if any
 > EX2_Output_starships_hyperdrive.txt
 set -e
 # Extracting the starships with "hyperdrive_rating" >= 1.0 from the starships API URL
