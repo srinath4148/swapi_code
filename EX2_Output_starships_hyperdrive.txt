@@ -3,7 +3,6 @@ Name of the Starship: CR90 corvette, and Its Hyperdrive Rating is : 2.0
 Name of the Starship: Star Destroyer, and Its Hyperdrive Rating is : 2.0
 Name of the Starship: Sentinel-class landing craft, and Its Hyperdrive Rating is : 1.0
 Name of the Starship: Death Star, and Its Hyperdrive Rating is : 4.0
-Name of the Starship: Millennium Falcon, and Its Hyperdrive Rating is : 0.5
 Name of the Starship: Y-wing, and Its Hyperdrive Rating is : 1.0
 Name of the Starship: X-wing, and Its Hyperdrive Rating is : 1.0
 Name of the Starship: TIE Advanced x1, and Its Hyperdrive Rating is : 1.0
