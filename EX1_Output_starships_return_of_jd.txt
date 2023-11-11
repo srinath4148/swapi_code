@@ -1,0 +1,27 @@
+******* List of API URLs of all the starships of the film 'Return of the Jedi' *********
+https://swapi.dev/api/starships/2/
+https://swapi.dev/api/starships/3/
+https://swapi.dev/api/starships/10/
+https://swapi.dev/api/starships/11/
+https://swapi.dev/api/starships/12/
+https://swapi.dev/api/starships/15/
+https://swapi.dev/api/starships/17/
+https://swapi.dev/api/starships/22/
+https://swapi.dev/api/starships/23/
+https://swapi.dev/api/starships/27/
+https://swapi.dev/api/starships/28/
+https://swapi.dev/api/starships/29/
+ 
+******* Name of the starships that are appeard in 'Return of the Jedi' *********
+Name of the Starship ID 2 is : 'CR90 corvette'
+Name of the Starship ID 3 is : 'Star Destroyer'
+Name of the Starship ID 10 is : 'Millennium Falcon'
+Name of the Starship ID 11 is : 'Y-wing'
+Name of the Starship ID 12 is : 'X-wing'
+Name of the Starship ID 15 is : 'Executor'
+Name of the Starship ID 17 is : 'Rebel transport'
+Name of the Starship ID 22 is : 'Imperial shuttle'
+Name of the Starship ID 23 is : 'EF76 Nebulon-B escort frigate'
+Name of the Starship ID 27 is : 'Calamari Cruiser'
+Name of the Starship ID 28 is : 'A-wing'
+Name of the Starship ID 29 is : 'B-wing'
