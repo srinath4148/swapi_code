@@ -1,5 +1,7 @@
 #!/bin/bash
+# Exercise 1: Find all ships that appeared in Return of the Jedi
 
+# Purging the old output file
 > EX1_Output_starships_return_of_jd.txt
 echo "******* List of API URLs of all the starships of the film 'Return of the Jedi' *********"  >> EX1_Output_starships_return_of_jd.txt
 curl -s "https://swapi.dev/api/films/3/" | jq -r '.starships[]' >> EX1_Output_starships_return_of_jd.txt
@@ -24,6 +26,6 @@ for ship_id in "${ship_ids[@]}"; do
     response=$(curl -s "$api_url")
     starship_name=$(echo "$response" | jq -r '.name')
 
-    # Display the starship ID, name, and redirect to the specified file
+    # Display the starship ID, and name, and redirect to the specified file
     echo "Name of the Starship ID $ship_id is : '$starship_name'" >> EX1_Output_starships_return_of_jd.txt
 done
