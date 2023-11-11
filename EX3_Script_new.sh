@@ -1,4 +1,5 @@
 #!/bin/bash
+# Exercise 3: Find all ships that have crews between 3 and 100
 
 > EX3_Output_crew_info.txt
 echo "******* All the starships that have Crews between 3 and 100 *********"  >> EX3_Output_crew_info.txt
