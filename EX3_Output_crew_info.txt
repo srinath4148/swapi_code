@@ -1,0 +1,4 @@
+******* All the starships that have Crews between 3 and 100 *********
+Name of the Starship: 'Sentinel-class landing craft' and it's  Crew Count is : '5'
+Name of the Starship: 'Millennium Falcon' and it's  Crew Count is : '4'
+Name of the Starship: 'Rebel transport' and it's  Crew Count is : '6'
